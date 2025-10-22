@@ -1,4 +1,5 @@
 TEXT-SUMMARIZATION-TOOL
+
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: Syed Mujtaba Siraj Uddin
@@ -12,6 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: Vaishali
 
 DESCRIPTION
+
 This task focuses on building an intelligent tool that can automatically summarize lengthy PDF documents into concise, meaningful summaries. The goal is to help readers grasp the essence of large reports, research papers, or articles quickly—without having to read every line. In essence, it bridges the gap between overwhelming information and accessible understanding.
 
 The project leverages the Transformers library from Hugging Face, specifically using the DistilBART model (sshleifer/distilbart-cnn-12-6). This model is a pre-trained neural network designed for text summarization tasks. It uses advanced natural language processing (NLP) techniques to understand large portions of text and generate clear, human-like summaries. By doing so, the system ensures that the summarized content retains the original context and intent.
