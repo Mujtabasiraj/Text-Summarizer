@@ -1,4 +1,4 @@
-TEXT-SUMMARIZATION-TOOL
+# TEXT-SUMMARIZATION-TOOL
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: Vaishali
 
-DESCRIPTION
+# DESCRIPTION
 
 This task focuses on building an intelligent tool that can automatically summarize lengthy PDF documents into concise, meaningful summaries. The goal is to help readers grasp the essence of large reports, research papers, or articles quickly—without having to read every line. In essence, it bridges the gap between overwhelming information and accessible understanding.
 
@@ -29,6 +29,6 @@ To make this system user-friendly, the project integrates Gradio, a Python libra
 Overall, this task demonstrates how deep learning and NLP can work together to transform the way we interact with information. By automating the process of summarizing lengthy documents, this tool saves time, reduces cognitive load, and enhances productivity—making it a valuable assistan[Uploading Task-1.ipynb…]()
 t for students, researchers, and professionals alike.
 
-OUTPUT
+# OUTPUT
 <img width="1280" height="724" alt="501523772-ec87d631-9919-4aac-ad5d-ba6bd9fd78f9" src="https://github.com/user-attachments/assets/68ec3541-3631-4750-bf9e-0fd3dfe1c9f4" />
 
